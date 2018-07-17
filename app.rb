@@ -15,7 +15,7 @@ get '/hometown' do
 end
 
 get '/favorite-song' do
-"my favoet song is god is biger than the bookie man(veggie tails)"
+"My favorite song is god is biger than the bookie man(veggie tails)"
 end
 
 end
