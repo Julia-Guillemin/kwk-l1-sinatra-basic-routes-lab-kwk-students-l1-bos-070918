@@ -10,6 +10,10 @@ get'/name' do
   "my name is Julia"
  end
 
-get '/'
+get '/hometown'
+"my hometown is Brookline"
+end
+
+get ''
 
 end
