@@ -11,7 +11,7 @@ get'/name' do
  end
 
 get '/hometown' do
-"my hometown is Brookline"
+"My hometown is Brookline"
 end
 
 get '/favorite-song' do
