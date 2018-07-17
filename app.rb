@@ -14,6 +14,7 @@ get '/hometown'
 "my hometown is Brookline"
 end
 
-get ''
+get '/favorite-song'
+"god is biger than the bookie man veggie tails"
 
 end
