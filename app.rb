@@ -10,11 +10,11 @@ get'/name' do
   "my name is Julia"
  end
 
-get '/hometown'
+get '/hometown' do
 "my hometown is Brookline"
 end
 
-get '/favorite-song'
+get '/favorite-song' do
 "god is biger than the bookie man veggie tails"
 end
 
